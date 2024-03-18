@@ -9,11 +9,10 @@
             <div class="col-12 col-lg-6">
                 <h1 class="display-4 text-primary">Quién soy</h1>
                 <p class="lead text-secondary">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.
+                    Soy Mohamed, desarrollador Web con 3 años de experiencia, caracterizado por ser autodidacta y resolutivo en cada proyecto que
+                    emprendo. Comprometido con el crecimiento personal y profesional, tengo la ilusión de iniciar una nueva etapa
+                    donde pueda aplicar mis habilidades técnicas y mi motivación para contribuir a un equipo dinámico y orientado al
+                    éxito.
                 </p>
                 <div class="d-grid gap-2">
                     <a class="btn btn-lg btn-primary" href="{{ route('contact') }}">Contáctame</a>
