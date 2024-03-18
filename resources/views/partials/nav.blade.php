@@ -19,7 +19,9 @@
                                         href="{{ route("contact") }}">@lang('Contacto')</a></li>
                 @guest
                     <li class="nav-item"><a class="nav-link {{ setActive('login') }}"
-                                            href="{{ route("login") }}">Login</a></li>
+                                            href="{{ route("login") }}">Inicia sesión</a></li>
+                    <li class="nav-item"><a class="nav-link {{ setActive('register') }}"
+                                            href="{{ route("register") }}">Regístrate</a></li>
                 @else
                     <li class="nav-item"><a class="nav-link" href="#" onclick="event.preventDefault();
                                 document.getElementById('logout-form').submit();">Cerrar sesión</a></li>
